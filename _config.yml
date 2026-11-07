@@ -20,7 +20,7 @@ repository               : "Abhro034/abhro034.github.io"
 # Site Author - Controls the content appearing in the left-hand sidebar.
 author:
   # Biographic information
-  avatar                 : "profile.png"
+  avatar                 :
   name                   : "Abhro Shome Pias"
   pronouns               : "He/Him"
   bio                    : "Ph.D. student in Industrial and Systems Engineering at Auburn University. Research interests include machine learning, biosignal processing, and sleep informatics."
@@ -121,7 +121,7 @@ staticman:
       options:
         format           : "iso8601"
 atom_feed:
-  hide                   : false
+  hide                   : true
   path                   : 
 
 # SEO Related
@@ -137,7 +137,7 @@ facebook:
   username               : 
   app_id                 : 
   publisher              : 
-og_image                 : profile.png
+og_image                 :
 og_description           : 
 
 social:
