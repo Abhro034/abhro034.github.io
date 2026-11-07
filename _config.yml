@@ -9,13 +9,13 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "mint" # Options: "default", "air", "sunrise", "mint", "dirt", "contrast"
-title                    : "Abhro Shome Pias / Researcher"
+title                    : "Abhro Shome Pias"
 title_separator          : "-"
 name                     : &name "Abhro Shome Pias"
-description              : &description "Graduate student in Industrial and Systems Engineering at Auburn University specializing in Time Series Modeling, IoT and Optimization."
+description              : &description "Ph.D. student in Industrial and Systems Engineering at Auburn University researching machine learning, biosignal processing, and sleep informatics."
 url                      : "https://abhro034.github.io"
 baseurl                  : ""
-repository               : "Abhro034/abhroshomepias.github.io"
+repository               : "Abhro034/abhro034.github.io"
 
 # Site Author - Controls the content appearing in the left-hand sidebar.
 author:
@@ -23,7 +23,7 @@ author:
   avatar                 : "profile.png"
   name                   : "Abhro Shome Pias"
   pronouns               : "He/Him"
-  bio                    : "Graduate student in Industrial and Systems Engineering at Auburn University. Researching deep sequence modeling, anomaly detection, and knowledge graph retrieval."
+  bio                    : "Ph.D. student in Industrial and Systems Engineering at Auburn University. Research interests include machine learning, biosignal processing, and sleep informatics."
   location               : "Auburn, Alabama"
   employer               : "Auburn University"
   uri                    : "https://abhro034.github.io"
@@ -85,7 +85,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'DA-GMGENet: A Domain Adaptation Framework for 3D CT-Based ECE Identification in Head and Neck Cancer'
+    title: 'Conference Papers'
 
 # Site Settings
 teaser                   : # filename of teaser fallback image placed in /images/
@@ -137,7 +137,7 @@ facebook:
   username               : 
   app_id                 : 
   publisher              : 
-og_image                 : og-image.png
+og_image                 : profile.png
 og_description           : 
 
 social:
